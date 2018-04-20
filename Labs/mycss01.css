@@ -1,0 +1,19 @@
+body {
+	margin: 96pt; 
+	background-color: #aaaaff;
+	border: #3333ff groove 12px;
+	padding: 24px;
+	}
+a {
+	font-size: 18pt;
+	font-family: fantasy;
+}
+.odds {
+	font-family: serif;
+	font-variant: small-caps;
+	font-size: 24;
+	text-align: center;
+}
+#second {
+	
+}
